@@ -1,0 +1,1 @@
+Adding notebook that I worked on in Coursera course capstone in Applied Data Science. The API Request did not work correctly toward the end of the lab. I will check back in a copule days to see if the server is responding.
